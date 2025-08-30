@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/khushikukreja26/leetcode/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/khushikukreja26/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/khushikukreja26/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushikukreja26/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/khushikukreja26/leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
