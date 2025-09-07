@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/khushikukreja26/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/khushikukreja26/leetcode/tree/master/0050-powx-n) |
 | [2032-largest-odd-number-in-string](https://github.com/khushikukreja26/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/khushikukreja26/leetcode/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/khushikukreja26/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/khushikukreja26/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/khushikukreja26/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/khushikukreja26/leetcode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
