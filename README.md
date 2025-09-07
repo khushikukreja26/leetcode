@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/khushikukreja26/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/khushikukreja26/leetcode/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/khushikukreja26/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/khushikukreja26/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/khushikukreja26/leetcode/tree/master/0242-valid-anagram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/khushikukreja26/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khushikukreja26/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/khushikukreja26/leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/khushikukreja26/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/khushikukreja26/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/khushikukreja26/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/khushikukreja26/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushikukreja26/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khushikukreja26/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/khushikukreja26/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/khushikukreja26/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/khushikukreja26/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/khushikukreja26/leetcode/tree/master/0328-odd-even-linked-list) |
