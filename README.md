@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/khushikukreja26/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/khushikukreja26/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/khushikukreja26/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/khushikukreja26/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/khushikukreja26/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/khushikukreja26/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/khushikukreja26/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/khushikukreja26/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khushikukreja26/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/khushikukreja26/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/khushikukreja26/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/khushikukreja26/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/khushikukreja26/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khushikukreja26/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khushikukreja26/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/khushikukreja26/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushikukreja26/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushikukreja26/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/khushikukreja26/leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/khushikukreja26/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/khushikukreja26/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/khushikukreja26/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/khushikukreja26/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/khushikukreja26/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/khushikukreja26/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
