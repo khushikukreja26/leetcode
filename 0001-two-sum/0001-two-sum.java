@@ -1,18 +1,26 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        int[] result = new int[2];
-        result[0]=result[1]=-1;
-        HashMap<Integer, Integer> mpp = new HashMap<>();
-        for(int i =0; i<nums.length; i++){
-            int num = nums[i];
-            int numNeeded = target - num;
-            if(mpp.containsKey(numNeeded)){
-                result[0]=mpp.get(numNeeded);
-                result[1]=i;
-                return result;
+        //Brute Force 
+        // for(int i = 0; i<nums.length; i++){
+        //     for(int j = i+1; j<nums.length; j++){
+        //         int sum = nums[i]+nums[j];
+        //         if(sum == target){
+        //             int[] result = {i,j};
+        //             return result;
+        //         }
+        //     }
+        // }
+        // return new int[]{-1, -1};
+
+        //Better Solution 
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for(int i = 0; i<nums.length; i++){
+            int numNeeded = target - nums[i];
+            if(map.containsKey(numNeeded)){
+                return new int[] {map.get(numNeeded), i};
             }
-            mpp.put(nums[i],i); 
-        }   
-        return result;
+            map.put(nums[i], i);
+        }
+        return new int[]{-1,-1};
     }
 }
