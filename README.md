@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/khushikukreja26/leetcode/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/khushikukreja26/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/khushikukreja26/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/khushikukreja26/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/khushikukreja26/leetcode/tree/master/0050-powx-n) |
+| [0371-sum-of-two-integers](https://github.com/khushikukreja26/leetcode/tree/master/0371-sum-of-two-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/khushikukreja26/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/khushikukreja26/leetcode/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
