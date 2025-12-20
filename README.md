@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/khushikukreja26/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/khushikukreja26/leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/khushikukreja26/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/khushikukreja26/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/khushikukreja26/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/khushikukreja26/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushikukreja26/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/khushikukreja26/leetcode/tree/master/0338-counting-bits) |
 | [0943-sum-of-subarray-minimums](https://github.com/khushikukreja26/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## String
 |  |
