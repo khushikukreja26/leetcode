@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushikukreja26/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/khushikukreja26/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/khushikukreja26/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/khushikukreja26/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/khushikukreja26/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/khushikukreja26/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/khushikukreja26/leetcode/tree/master/0735-asteroid-collision) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/khushikukreja26/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/khushikukreja26/leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/khushikukreja26/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/khushikukreja26/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/khushikukreja26/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Hash Table
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/khushikukreja26/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/khushikukreja26/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khushikukreja26/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/khushikukreja26/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/khushikukreja26/leetcode/tree/master/0496-next-greater-element-i) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/khushikukreja26/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Binary Search
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/khushikukreja26/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/khushikukreja26/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushikukreja26/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/khushikukreja26/leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/khushikukreja26/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/khushikukreja26/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/khushikukreja26/leetcode/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/khushikukreja26/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/khushikukreja26/leetcode/tree/master/0371-sum-of-two-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/khushikukreja26/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/khushikukreja26/leetcode/tree/master/2050-count-good-numbers) |
@@ -140,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/khushikukreja26/leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/khushikukreja26/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khushikukreja26/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/khushikukreja26/leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
