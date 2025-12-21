@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/khushikukreja26/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/khushikukreja26/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/khushikukreja26/leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/khushikukreja26/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/khushikukreja26/leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/khushikukreja26/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/khushikukreja26/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/khushikukreja26/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushikukreja26/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/khushikukreja26/leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/khushikukreja26/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/khushikukreja26/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/khushikukreja26/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushikukreja26/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/khushikukreja26/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/khushikukreja26/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/khushikukreja26/leetcode/tree/master/0338-counting-bits) |
 | [0943-sum-of-subarray-minimums](https://github.com/khushikukreja26/leetcode/tree/master/0943-sum-of-subarray-minimums) |
