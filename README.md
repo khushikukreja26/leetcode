@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/khushikukreja26/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/khushikukreja26/leetcode/tree/master/0338-counting-bits) |
 | [0943-sum-of-subarray-minimums](https://github.com/khushikukreja26/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/khushikukreja26/leetcode/tree/master/1143-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/khushikukreja26/leetcode/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/khushikukreja26/leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/khushikukreja26/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1143-longest-common-subsequence](https://github.com/khushikukreja26/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/khushikukreja26/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/khushikukreja26/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/khushikukreja26/leetcode/tree/master/2032-largest-odd-number-in-string) |
