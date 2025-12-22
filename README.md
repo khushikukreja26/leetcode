@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/khushikukreja26/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushikukreja26/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/khushikukreja26/leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/khushikukreja26/leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushikukreja26/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/khushikukreja26/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/khushikukreja26/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/khushikukreja26/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/khushikukreja26/leetcode/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/khushikukreja26/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/khushikukreja26/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khushikukreja26/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/khushikukreja26/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/khushikukreja26/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/khushikukreja26/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushikukreja26/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/khushikukreja26/leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/khushikukreja26/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/khushikukreja26/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/khushikukreja26/leetcode/tree/master/0338-counting-bits) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/khushikukreja26/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/khushikukreja26/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/khushikukreja26/leetcode/tree/master/0038-count-and-say) |
+| [0139-word-break](https://github.com/khushikukreja26/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/khushikukreja26/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/khushikukreja26/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/khushikukreja26/leetcode/tree/master/0242-valid-anagram) |
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/khushikukreja26/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/khushikukreja26/leetcode/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -221,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/khushikukreja26/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/khushikukreja26/leetcode/tree/master/0139-word-break) |
 ## Breadth-First Search
 |  |
 | ------- |
