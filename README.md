@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/khushikukreja26/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/khushikukreja26/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/khushikukreja26/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/khushikukreja26/leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/khushikukreja26/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushikukreja26/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/khushikukreja26/leetcode/tree/master/0136-single-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/khushikukreja26/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/khushikukreja26/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/khushikukreja26/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/khushikukreja26/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/khushikukreja26/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/khushikukreja26/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/khushikukreja26/leetcode/tree/master/0091-decode-ways) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushikukreja26/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/khushikukreja26/leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/khushikukreja26/leetcode/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/khushikukreja26/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/khushikukreja26/leetcode/tree/master/2032-largest-odd-number-in-string) |
