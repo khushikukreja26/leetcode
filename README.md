@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/khushikukreja26/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khushikukreja26/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/khushikukreja26/leetcode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/khushikukreja26/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/khushikukreja26/leetcode/tree/master/0496-next-greater-element-i) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/khushikukreja26/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Binary Search
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/khushikukreja26/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/khushikukreja26/leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/khushikukreja26/leetcode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/khushikukreja26/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/khushikukreja26/leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/khushikukreja26/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/khushikukreja26/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -257,4 +259,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushikukreja26/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/khushikukreja26/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
