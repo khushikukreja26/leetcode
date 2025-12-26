@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/khushikukreja26/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/khushikukreja26/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/khushikukreja26/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/khushikukreja26/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/khushikukreja26/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/khushikukreja26/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/khushikukreja26/leetcode/tree/master/0055-jump-game) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/khushikukreja26/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushikukreja26/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/khushikukreja26/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/khushikukreja26/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/khushikukreja26/leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/khushikukreja26/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/khushikukreja26/leetcode/tree/master/0141-linked-list-cycle) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/khushikukreja26/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/khushikukreja26/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/khushikukreja26/leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/khushikukreja26/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/khushikukreja26/leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/khushikukreja26/leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/khushikukreja26/leetcode/tree/master/0139-word-break) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/khushikukreja26/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/khushikukreja26/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/khushikukreja26/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khushikukreja26/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/khushikukreja26/leetcode/tree/master/0268-missing-number) |
