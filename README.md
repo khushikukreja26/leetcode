@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushikukreja26/leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/khushikukreja26/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/khushikukreja26/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/khushikukreja26/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/khushikukreja26/leetcode/tree/master/0050-powx-n) |
