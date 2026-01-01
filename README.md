@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/khushikukreja26/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/khushikukreja26/leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/khushikukreja26/leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/khushikukreja26/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Backtracking
@@ -331,5 +332,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/khushikukreja26/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/khushikukreja26/leetcode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/khushikukreja26/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/khushikukreja26/leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/khushikukreja26/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
