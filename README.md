@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/khushikukreja26/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/khushikukreja26/leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/khushikukreja26/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/khushikukreja26/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/khushikukreja26/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/khushikukreja26/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/khushikukreja26/leetcode/tree/master/0735-asteroid-collision) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/khushikukreja26/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/khushikukreja26/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/khushikukreja26/leetcode/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/khushikukreja26/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/khushikukreja26/leetcode/tree/master/0647-palindromic-substrings) |
 | [0943-sum-of-subarray-minimums](https://github.com/khushikukreja26/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/khushikukreja26/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/khushikukreja26/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/khushikukreja26/leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/khushikukreja26/leetcode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/khushikukreja26/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/khushikukreja26/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/khushikukreja26/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/khushikukreja26/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khushikukreja26/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/khushikukreja26/leetcode/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/khushikukreja26/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
