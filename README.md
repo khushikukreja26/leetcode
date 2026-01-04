@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/khushikukreja26/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/khushikukreja26/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/khushikukreja26/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/khushikukreja26/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/khushikukreja26/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khushikukreja26/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushikukreja26/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/khushikukreja26/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/khushikukreja26/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/khushikukreja26/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/khushikukreja26/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/khushikukreja26/leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/khushikukreja26/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Two Pointers
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/khushikukreja26/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/khushikukreja26/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/khushikukreja26/leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/khushikukreja26/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/khushikukreja26/leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/khushikukreja26/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/khushikukreja26/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/khushikukreja26/leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/khushikukreja26/leetcode/tree/master/0079-word-search) |
 ## Combinatorics
 |  |
 | ------- |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/khushikukreja26/leetcode/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/khushikukreja26/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/khushikukreja26/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/khushikukreja26/leetcode/tree/master/0207-course-schedule) |
