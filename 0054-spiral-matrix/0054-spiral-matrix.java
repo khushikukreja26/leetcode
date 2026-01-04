@@ -1,42 +1,45 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        int n = matrix.length;
-        int m = matrix[0].length;
-        int top = 0;
-        int bottom= n-1;
-        int left = 0;
-        int right = m-1;
-        List<Integer> ans = new ArrayList<>();
-        while(left<=right && top<=bottom){
+
+        List<Integer> result = new ArrayList<>();
+
+        int rowStart = 0;
+        int rowEnd = matrix.length-1;
+        int colStart = 0;
+        int colEnd = matrix[0].length-1;
+
+        while(rowStart <= rowEnd && colStart <= colEnd){
+
+            // Traverse top row
+            for(int j=colStart; j<=colEnd; j++){
+                result.add(matrix[rowStart][j]);
+            }
+            rowStart++;
+
+            // Traverse right column
+            for(int i=rowStart; i<=rowEnd; i++){
+                result.add(matrix[i][colEnd]);
+            }
+            colEnd--;
+
+            // Traverse bottom row
+            if(rowStart <= rowEnd){
+                for(int j=colEnd; j>=colStart; j--){
+                    result.add(matrix[rowEnd][j]);
+                }
+                rowEnd--;
+            }
             
-            //right
-            for(int i=left; i<=right; i++){
-                ans.add(matrix[top][i]);
-            }
-            top++;
 
-            //bottom
-            for(int i=top; i<=bottom; i++){
-                ans.add(matrix[i][right]);
+            // Traverse left column
+            if(colStart <= colEnd){
+                for(int i=rowEnd; i>=rowStart; i--){
+                    result.add(matrix[i][colStart]);
+                }
+                colStart++;
             }
-            right--;
-
-            //left
-            if(top<=bottom){
-            for(int i=right; i>=left; i--){
-                ans.add(matrix[bottom][i]);
-            }
-            bottom--;
-            }
-
-            //right
-            if(left<=right){
-                for(int i=bottom; i>=top; i--){
-                ans.add(matrix[i][left]);
-            }
-            left++;
-            }
+            
         }
-        return ans;
+        return result;
     }
 }
