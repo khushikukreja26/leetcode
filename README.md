@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/khushikukreja26/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/khushikukreja26/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/khushikukreja26/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/khushikukreja26/leetcode/tree/master/0207-course-schedule) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/khushikukreja26/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khushikukreja26/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/khushikukreja26/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khushikukreja26/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Union Find
 |  |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/khushikukreja26/leetcode/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/khushikukreja26/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/khushikukreja26/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/khushikukreja26/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/khushikukreja26/leetcode/tree/master/0207-course-schedule) |
