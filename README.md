@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/khushikukreja26/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/khushikukreja26/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushikukreja26/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/khushikukreja26/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/khushikukreja26/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/khushikukreja26/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/khushikukreja26/leetcode/tree/master/0213-house-robber-ii) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/khushikukreja26/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushikukreja26/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khushikukreja26/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/khushikukreja26/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/khushikukreja26/leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/khushikukreja26/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushikukreja26/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khushikukreja26/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/khushikukreja26/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/khushikukreja26/leetcode/tree/master/0226-invert-binary-tree) |
 ## Union Find
 |  |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/khushikukreja26/leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/khushikukreja26/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushikukreja26/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/khushikukreja26/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/khushikukreja26/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/khushikukreja26/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/khushikukreja26/leetcode/tree/master/0207-course-schedule) |
