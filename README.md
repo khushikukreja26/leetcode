@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/khushikukreja26/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/khushikukreja26/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/khushikukreja26/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/khushikukreja26/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/khushikukreja26/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/khushikukreja26/leetcode/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/khushikukreja26/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/khushikukreja26/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/khushikukreja26/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/khushikukreja26/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/khushikukreja26/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khushikukreja26/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/khushikukreja26/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khushikukreja26/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/khushikukreja26/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/khushikukreja26/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/khushikukreja26/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/khushikukreja26/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khushikukreja26/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/khushikukreja26/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khushikukreja26/leetcode/tree/master/0217-contains-duplicate) |
