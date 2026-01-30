@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/khushikukreja26/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/khushikukreja26/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/khushikukreja26/leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/khushikukreja26/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/khushikukreja26/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/khushikukreja26/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/khushikukreja26/leetcode/tree/master/0053-maximum-subarray) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khushikukreja26/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/khushikukreja26/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/khushikukreja26/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/khushikukreja26/leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/khushikukreja26/leetcode/tree/master/0079-word-search) |
 ## Combinatorics
 |  |
