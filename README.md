@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/khushikukreja26/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/khushikukreja26/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/khushikukreja26/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/khushikukreja26/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/khushikukreja26/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/khushikukreja26/leetcode/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/khushikukreja26/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/khushikukreja26/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/khushikukreja26/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/khushikukreja26/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/khushikukreja26/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/khushikukreja26/leetcode/tree/master/0191-number-of-1-bits) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/khushikukreja26/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/khushikukreja26/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/khushikukreja26/leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/khushikukreja26/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/khushikukreja26/leetcode/tree/master/0079-word-search) |
 ## Combinatorics
 |  |
